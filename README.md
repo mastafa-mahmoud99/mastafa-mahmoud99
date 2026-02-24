@@ -83,10 +83,9 @@ I am constantly learning new technologies and improving my analytical thinking s
 
 ## 📊 GitHub Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=mastafa-mahmoud99&show_icons=true&theme=radical)
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastafa-mahmoud99&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mastafa-mahmoud99&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mastafa-mahmoud99&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 ## 🛠️ Featured Projects
